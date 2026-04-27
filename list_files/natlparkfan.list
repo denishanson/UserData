@@ -240,6 +240,7 @@ IL	IL22	I-94	IL43	#1994-08 Conference Point
 IL	I-94	WI/IL	21	#1994-08 Conference Point
 WI	I-94	344	WI/IL	#1994-08 Conference Point
 WI	WI50	GenSt	I-94	#1994-08 Conference Point
+WI	WI67	CRB_Wal	GenSt	#1994-08 Conference Point
 #1994-10 Saugatuck				
 IL	I-94	42	IL/IN	#1994-10 Saugatuck
 IN	I-94	IL/IN	IN/MI	#1994-10 Saugatuck
@@ -2132,13 +2133,13 @@ IL	IL83	LakeCookRd	IL53	#2025-04 AACR Chicago
 IL	US41	I-94_W	CouLinRd	#2025-04 AACR Chicago
 IL	IL171	LakeSt	I-90	#2025-04 AACR Chicago
 IL	IL43	I-290	IL21	#2025-04 AACR Chicago
-#2025-09 Alaska				
-AK	HicPkwy	AK1	TudRd	#2025-09 Alaska Adventures
-AK	I-A1	5thAve_W	AK3_N	#2025-09 Alaska Adventures
-AK	I-A4	AK1	HeaSpurRd	#2025-09 Alaska Adventures
-AK	ParkRd	AK3	EastForkBrg	#2025-09 Alaska Adventures
-AK	I-A3	AK9	DowRd	#2025-09 Alaska Adventures
-AK	AK9	RaiAve	AK1	#2025-09 Alaska Adventures
+#2025-08 Alaska Adventures				
+AK	HicPkwy	AK1	TudRd	#2025-08 Alaska Adventures
+AK	I-A1	5thAve_W	AK3_N	#2025-08 Alaska Adventures
+AK	I-A4	AK1	HeaSpurRd	#2025-08 Alaska Adventures
+AK	ParkRd	AK3	EastForkBrg	#2025-08 Alaska Adventures
+AK	I-A3	AK9	DowRd	#2025-08 Alaska Adventures
+AK	AK9	RaiAve	AK1	#2025-08 Alaska Adventures
 #2025-09 Great Basin				
 CA	CA118	18	42A	#2025-09 Great Basin
 CA	I-405	71A	I-5(158)	#2025-09 Great Basin
@@ -2201,7 +2202,7 @@ IL	US51BusBlo	US51_S	I-55
 IL	IL9	CouSt	US51Bus	
 IL	IL19	I-90/94	US41	
 IL	IL21	IL43	IL132	
-IL	IL22	IL83	US41	
+IL	IL22	US45/21	US41	
 IL	IL29	IL9_W	DetDr	
 IL	IL40	I-74(94)	DetDr	
 IL	IL43	I-290	US41	
@@ -2278,11 +2279,17 @@ CA	US66HisSPa	MonRd	CA110
 CA	US99HisFer	ValBlvd	I-5(171)	
 #San Diego				
 CA	I-8	SunCliBlvd	4B	
+CA	I-805	14	21	#2026-04 AACR San Diego
+CA	CA15	2B	3	#2026-04 AACR San Diego
 CA	CA52	1A	6	
 CA	CA56	1A	9	
-CA	CA78	1A	SanDieZoo	
+CA	CA78	1A	17A	
+CA	CA78	SanPasRd	SanDieZoo	
+CA	CA94	1A	2A	#2026-04 AACR San Diego
 CA	CA163	ASt	I-15	
 CA	US80HisSan	I-5	ZooDr	
+CA	US80HisSan	FroSt	MarSt	#2026-04 AACR San Diego
+CA	US101HisSan	TamAve	CarVlgDr	
 CA	US395HisPow	I-15(14)	CamNor	
 #Las Vegas				
 NV	I-215	1	12	#2019-08 Big Island
@@ -2295,6 +2302,7 @@ NV	NV582	TulFalRd	NV159
 NV	NV592	ParRd	I-11	
 NV	NV592Spr	NV596	I-15	
 NV	NV593	MarPkwy	I-11	
+NV	NV596	SahAve	I-11	
 NV	NV613	CR215	I-11	#2018-07 Reunion _Summer League
 NV	CR215	12	28	#2018-07 Reunion _Summer League
 NV	HRAirCon	I-215	RusRd	#2016-07 Summer League
